@@ -23,6 +23,9 @@
   <br/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.png">
+</div>
 
 
 ## Languages and Tools
