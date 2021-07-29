@@ -16,10 +16,11 @@
   
   <br/>
   
-  
-- 🔭 I’m currently working on MSTeams Clone
-- 🌱 I’m currently learning JavaScript, RXJS
-- 👯 I’m looking to collaborate on Angular and JavaScript related projects
+ 👯 I’m looking to collaborate on Angular and JavaScript related projects <br/>
+ 🔭 I’m currently working on MSTeams Clone <br/>
+ 🌱 I’m currently learning JavaScript, RXJS <br/>
+
+  <br/>
 </div>
 
 
