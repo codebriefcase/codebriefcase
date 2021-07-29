@@ -23,10 +23,6 @@
   <br/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.png">
-</div>
-
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,3 +47,8 @@
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebriefcase&hide=stars&count_private=true&show_icons=true)
+
+
+## Connect with me
+<a href="https://www.linkedin.com/in/knowankitchoudhary/"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
+
