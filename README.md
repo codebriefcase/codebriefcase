@@ -24,7 +24,7 @@
 </div>
 
 
-## Languages and Tools
+## In my Arsenal
 
 <!-- Used https://github.com/alexandresanlim/Badges4-README.md-Profile for beautiful icons -->
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
