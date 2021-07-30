@@ -51,5 +51,5 @@
 
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/knowankitchoudhary/"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
+<a href="https://www.linkedin.com/in/knowankitchoudhary/" target="_blank"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
 
