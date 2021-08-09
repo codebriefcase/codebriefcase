@@ -59,7 +59,7 @@
   
   ## Github Stats
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebriefcase&hide=stars&count_private=true&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloankit&hide=stars&count_private=true&show_icons=true)
     
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helloankit)](https://git.io/streak-stats)
    
