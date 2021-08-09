@@ -49,7 +49,7 @@
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebriefcase&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloankit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
@@ -61,7 +61,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebriefcase&hide=stars&count_private=true&show_icons=true)
     
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codebriefcase)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helloankit)](https://git.io/streak-stats)
    
 </div>
 
@@ -69,5 +69,5 @@
   
   ## Connect with me
   
-  <a href="https://www.linkedin.com/in/knowankitchoudhary/" target="_blank"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
+  <a href="https://www.linkedin.com/in/meetankitchoudhary/" target="_blank"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
 </div>
