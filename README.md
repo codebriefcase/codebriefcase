@@ -68,6 +68,10 @@
 <div align="center">
   
   ## Connect with me
-  
-  <a href="https://www.linkedin.com/in/meetankitchoudhary/" target="_blank"><img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"></a>
+  <a align="right" href="https://www.linkedin.com/in/meetankitchoudhary/" target="_blank">
+    <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/TwitterCard.PNG"/>
+  </a>
+  <a href="https://www.linkedin.com/in/meetankitchoudhary/" target="_blank">
+    <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"/>
+  </a>
 </div>
