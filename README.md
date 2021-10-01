@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/giphy.webp" width="25%">
   <br/>
   I loved breaking things when I was a kid! But with my adolescence I found more joy in building things :)
-  So Here I am! Trying to build delightful and performant interfaces. Striving to learn Javascript and other exciting stuffs in the Frontend space.
+  So Here I am! Trying to build delightful and performant interfaces (and breaking a few). Striving to learn Javascript and other exciting stuffs in the Frontend space.
   <br/>
   Fascinated about space & travel (and Space Travel too).
   
@@ -42,7 +42,6 @@
   ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![image](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15)
-  ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
