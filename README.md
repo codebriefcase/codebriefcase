@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/header.jpg">
+<!-- <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/header.jpg"> -->
 
 
 <!-- ### Hi there  <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/wave.gif" width="30px"> -->
