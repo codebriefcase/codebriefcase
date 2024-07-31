@@ -50,29 +50,3 @@
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloankit&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
-
-
-
-<div align="center">
-  <br/>
-  
-  ## Github Stats
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloankit&hide=stars&count_private=true&show_icons=true)
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helloankit)](https://git.io/streak-stats)
-   
-</div>
-
-<div align="center">
-  
-  ## Connect with me
-   <a href="https://www.linkedin.com/in/meetankitchoudhary/" target="_blank">
-    <img src="https://raw.githubusercontent.com/codebriefcase/codebriefcase/main/LinkedInCard.PNG"/>
-  </a>
-  
-  <a align="right" href="https://www.twitter.com/checkankit/" target="_blank">
-    <img src="https://github.com/helloankit/helloankit/blob/main/TwitterCard.png"/>
-  </a>
- 
-</div>
